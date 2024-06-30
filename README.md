@@ -1,5 +1,5 @@
 ## Hi there 👋
-I like gamedev, datascience and vr. but can be sometimes too lazy :)
+I like gamedev, datascience and vr:)
 
 <!--
 **orange-ramlius/orange-ramlius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
